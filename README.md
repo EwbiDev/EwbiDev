@@ -2,7 +2,7 @@
 
 My name is Eduard, and I'm a full-stack engineer and I love nothing more than a good challenge.
 
-I am currently working on [a typing app](https://github.com/EwbiDev/typey) and a [price tracker for Oldschool Runescape](https://github.com/EwbiDev/typey).
+I am currently working on [a typing app](https://github.com/EwbiDev/typey) and a [price tracker for Oldschool Runescape](https://github.com/EwbiDev/osrs-price-tracker).
 
 <!--
 **EwbiDev/EwbiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
