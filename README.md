@@ -19,21 +19,21 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/eduard-bissell/).
 
 ### Server Side:
 
-![Static Badge](https://img.shields.io/badge/nodejs-white?style=for-the-badge&logo=nodedotjs&logoColor=white&color=%235FA04E)
-![Static Badge](https://img.shields.io/badge/express-white?style=for-the-badge&logo=express&logoColor=white&color=%23000000)
-![Static Badge](https://img.shields.io/badge/nestjs-white?style=for-the-badge&logo=nestjs&logoColor=white&color=%23E0234E)
-![Static Badge](https://img.shields.io/badge/prisma-white?style=for-the-badge&logo=prisma&logoColor=white&color=%232D3748)
-![Static Badge](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=white&color=%233776AB)
-![Static Badge](https://img.shields.io/badge/sqlalchemy-white?style=for-the-badge&logo=sqlalchemy&logoColor=white&color=%23D71F00)
-![Static Badge](https://img.shields.io/badge/go-white?style=for-the-badge&logo=go&logoColor=white&color=%2300ADD8)
-![Static Badge](https://img.shields.io/badge/postgresql-white?style=for-the-badge&logo=postgresql&logoColor=white&color=%234169E1)
-![Static Badge](https://img.shields.io/badge/sqlite-white?style=for-the-badge&logo=sqlite&logoColor=white&color=%23003B57)
+![NodeJS Static Badge](https://img.shields.io/badge/nodejs-white?style=for-the-badge&logo=nodedotjs&logoColor=white&color=%235FA04E)
+![Express Static Badge](https://img.shields.io/badge/express-white?style=for-the-badge&logo=express&logoColor=white&color=%23000000)
+![NestJS Static Badge](https://img.shields.io/badge/nestjs-white?style=for-the-badge&logo=nestjs&logoColor=white&color=%23E0234E)
+![Prisma Static Badge](https://img.shields.io/badge/prisma-white?style=for-the-badge&logo=prisma&logoColor=white&color=%232D3748)
+![Python Static Badge](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=white&color=%233776AB)
+![SQLAlchemy Static Badge](https://img.shields.io/badge/sqlalchemy-white?style=for-the-badge&logo=sqlalchemy&logoColor=white&color=%23D71F00)
+![Go Static Badge](https://img.shields.io/badge/go-white?style=for-the-badge&logo=go&logoColor=white&color=%2300ADD8)
+![postgreSQL Static Badge](https://img.shields.io/badge/postgresql-white?style=for-the-badge&logo=postgresql&logoColor=white&color=%234169E1)
+![SQLite Static Badge](https://img.shields.io/badge/sqlite-white?style=for-the-badge&logo=sqlite&logoColor=white&color=%23003B57)
 
 ### Other Fun Stuff:
 
-![Static Badge](https://img.shields.io/badge/jest-white?style=for-the-badge&logo=jest&logoColor=white&color=%23C21325)
-![Static Badge](https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker&logoColor=white&color=%232496ED)
-![Static Badge](https://img.shields.io/badge/steam_deck-white?style=for-the-badge&logo=steamdeck&logoColor=white&color=%231A9FFF)
+![Jest Static Badge](https://img.shields.io/badge/jest-white?style=for-the-badge&logo=jest&logoColor=white&color=%23C21325)
+![Docker Static Badge](https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker&logoColor=white&color=%232496ED)
+![Steam Deck Static Badge](https://img.shields.io/badge/steam_deck-white?style=for-the-badge&logo=steamdeck&logoColor=white&color=%231A9FFF)
 
 ### Stat!:
 
