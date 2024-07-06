@@ -35,7 +35,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/eduard-bissell/).
 ![Docker Static Badge](https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker&logoColor=white&color=%232496ED)
 ![Steam Deck Static Badge](https://img.shields.io/badge/steam_deck-white?style=for-the-badge&logo=steamdeck&logoColor=white&color=%231A9FFF)
 
-### Stat!:
+### Stat:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewbidev&theme=transparent&layout=donut)
 
